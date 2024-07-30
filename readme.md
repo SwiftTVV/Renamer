@@ -1,4 +1,4 @@
-### How It Works
+# How It Works
 1. The script prompts the user to enter the base name for the new files once.
 2. The generate_new_name function generates a new file name by adding a number in parentheses to ensure uniqueness.
 3. The rename_and_move_file function renames and moves each file to the output directory.
